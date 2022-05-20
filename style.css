@@ -48,7 +48,9 @@ main h1 { /*contextual selector */
     color: rgb(129, 141, 179);
     font-family: Arial;
 }
-
+main #album #photo img {
+    width: 400px;
+}
 footer {
     height: 40px;
     background-color: rgb(129, 141, 179);
